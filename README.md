@@ -1,0 +1,2 @@
+# godhand
+my learning way 
