@@ -1,2 +1,2 @@
 # godhand
-my learning way 
+i'm a program hobbyist,record my learning way
